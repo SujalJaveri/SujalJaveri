@@ -20,7 +20,7 @@ I'm a student and self-driven developer focused on Artificial Intelligence, Mach
 
 ### 🔝 Top Contributed Repo
 
-[![Spotify ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SujalJaveri&repo=spotify-etl-pipeline&theme=dark)](https://github.com/SujalJaveri/spotify-etl-pipeline)
+[![Spotify ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SujalJaveri&repo=spotify-etl-pipeline&theme=tokyonight)](https://github.com/SujalJaveri/spotify-etl-pipeline)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SujalJaveri&icon=0&color=0)](https://visitcount.itsvg.in)
